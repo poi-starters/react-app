@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) but [I replaced `react-scripts` with `poi`](https://github.com/poi-starters/react-app/commit/ac25100da49ed83075ed7f67b56d0ad6d853c24c).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) but [I replaced `react-scripts` with `poi`](https://github.com/poi-starters/react-app/commit/efcfdfcbfb9f70afc0).
 
 ## Available Scripts
 
